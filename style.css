@@ -45,7 +45,7 @@ height: 70%;
   position: relative;
   }
   .overlayinn { /* Propiedades de la transparencia */
-  background-color: rgba(147, 122, 122, 0.6);
+  background-color: rgba(97,67, 67, 0.6);
   width: 100%; /* ancho del contenedor de texto */
   height: 100%; /* alto del contenedor de texto */
   top: 0px; /*distancia hacia abajo*/
