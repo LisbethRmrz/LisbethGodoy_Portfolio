@@ -45,7 +45,7 @@ height: 70%;
   position: relative;
   }
   .overlayinn { /* Propiedades de la transparencia */
-  background-color: rgba(34, 32, 32, 0.6);
+  background-color: rgba(0,0,0, 0.6);
   width: 100%; /* ancho del contenedor de texto */
   height: 100%; /* alto del contenedor de texto */
   top: 0px; /*distancia hacia abajo*/
@@ -64,3 +64,7 @@ height: 70%;
   transition: opacity 1s;
   }
   /* Efecto Rectangular final */
+
+
+  /*Estilos Footer */
+  
