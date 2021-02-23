@@ -45,7 +45,7 @@ height: 70%;
   position: relative;
   }
   .overlayinn { /* Propiedades de la transparencia */
-  background-color: rgba(97,67, 67, 0.6);
+  background-color: rgba(34, 32, 32, 0.6);
   width: 100%; /* ancho del contenedor de texto */
   height: 100%; /* alto del contenedor de texto */
   top: 0px; /*distancia hacia abajo*/
@@ -56,7 +56,7 @@ height: 70%;
   transition: opacity .5s;
   text-align: center; /* texto centrado */
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 36px; /* tama�o de letra */
+  font-size: 14px; /* tama�o de letra */
   color:#f5f4ed; /* color de texto */
   }
   .overlayinn:hover { /* Efecto al pasar el mouse */
